@@ -32,9 +32,14 @@ http://localhost:8080/api
 
 ## Project Images
 
-- indexImg.png
-- loginImg.png
-- signupImg.png
+### Home Page
+![Home Page](indexImg.png)
+
+### Login Page
+![Login Page](loginImg.png)
+
+### Sign Up Page
+![Sign Up Page](signupImg.png)
 
 ## Postman
 Postman collection is added in this project for API testing.
