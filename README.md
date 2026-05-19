@@ -1,25 +1,34 @@
 # Basic-RestApi-Project
 
-This is a basic REST API project made using Spring Boot and Java.
+This is a basic REST API project built using Java and Spring Boot.
 
-I created this project to practice:
-- REST APIs
-- Spring Boot annotations
-- Request handling
+The project includes:
+- Login Page
+- Sign Up Page
+- REST API
+- HTML pages
 - API testing using Postman
 
 ## Tech Used
 - Java
 - Spring Boot
 - Maven
+- HTML
 - Postman
 
-## API Endpoint
+## Endpoints
 
+Login:
+http://localhost:8080/login
+
+Sign Up:
+http://localhost:8080/signup
+
+API:
 http://localhost:8080/api
 
 ## Postman
-Postman collection file is added in this project.
+Postman collection file is included in this project.
 
 ## Author
 Anjali
